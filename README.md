@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rupam1105
-- 👀 I’m interested in : Python Programing 
-- 🌱 I’m currently learning : Python 
+- 👀 I’m interested in : Python Programing & SQL Database.
+- 🌱 I’m currently learning : Python & SQL 
 - 📫 How to reach me : rupamkarmakar1105@gmail.com
 
 <!---
